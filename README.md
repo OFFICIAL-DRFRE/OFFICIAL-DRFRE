@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@Frehiwot Berhe**
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning new languages and challenges to become a software engineer
-- 💞️ I’m looking to collaborate on mobile app projects.
+- 👀 I’m interested in software development, mobile app development and website development.
+- 🌱 I’m currently learning new languages and challenges to become a skilled software engineer
+- 💞️ I’m looking to collaborate on any app development projects.
 - 📫 you can contact me at <a href = "drfre08@gmail.com">Frehiwot Berhe
 
 <!---
